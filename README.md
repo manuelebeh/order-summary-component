@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/manuelebeh/order-summary-component)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://manuelebeh.github.io/order-summary-component)
 
 ## My process
 
